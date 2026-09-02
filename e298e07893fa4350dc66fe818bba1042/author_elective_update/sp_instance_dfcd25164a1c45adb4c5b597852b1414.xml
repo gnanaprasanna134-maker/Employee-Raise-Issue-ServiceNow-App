@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+  <sp_instance action="DELETE">
+    <sys_id>dfcd25164a1c45adb4c5b597852b1414</sys_id>
+    <sys_scope display_value="x_2169023_employ_1">e298e07893fa4350dc66fe818bba1042</sys_scope>
+    <sys_update_name>sp_instance_dfcd25164a1c45adb4c5b597852b1414</sys_update_name>
+    <active>true</active>
+    <order>1</order>
+    <sp_column>5b85d29a93f28f50dc66fe818bba10cc</sp_column>
+    <sp_widget>4acaba91933e8750dc66fe818bba1091</sp_widget>
+    <title>Commercial widget</title>
+  </sp_instance>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Center">e298e07893fa4350dc66fe818bba1042</application>
+        <file_path/>
+        <instance_id>949288ee3b4e035016e44a8aa4e45a4b</instance_id>
+        <instance_name>dev438061</instance_name>
+        <name>sp_instance_dfcd25164a1c45adb4c5b597852b1414</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+  <sp_instance action="INSERT_OR_UPDATE">
+    <sys_id>dfcd25164a1c45adb4c5b597852b1414</sys_id>
+    <sys_scope display_value="x_2169023_employ_1">e298e07893fa4350dc66fe818bba1042</sys_scope>
+    <sys_update_name>sp_instance_dfcd25164a1c45adb4c5b597852b1414</sys_update_name>
+    <active>true</active>
+    <order>1</order>
+    <sp_column>5b85d29a93f28f50dc66fe818bba10cc</sp_column>
+    <sp_widget>4acaba91933e8750dc66fe818bba1091</sp_widget>
+    <title>Commercial widget</title>
+  </sp_instance>
+</record_update>]]></payload>
+        <payload_hash>-1539807235</payload_hash>
+        <record_name>Commercial widget</record_name>
+        <reverted_from/>
+        <source>f1ab1054934f0f90dc66fe818bba109c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-27 12:59:58</sys_created_on>
+        <sys_id>4aab1054934f0f90dc66fe818bba10db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0434e47bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-27 12:59:58</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>0aab1054ff4f0f9023e2ef65723277da</update_guid>
+        <update_guid_history>0aab1054ff4f0f9023e2ef65723277da:-1539807235</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Commercial widget">02a12c90930f0f90dc66fe818bba10bf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-27 13:26:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>e06045ae246b4c9981d53185be031601</sys_id>
+        <sys_metadata>dfcd25164a1c45adb4c5b597852b1414</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Commercial widget</sys_name>
+        <sys_package display_value="Employee Center" source="x_2169023_employ_1">e298e07893fa4350dc66fe818bba1042</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">e298e07893fa4350dc66fe818bba1042</sys_scope>
+        <sys_scope_delete display_value="">1edc0c2828de4fc4922622033193de90</sys_scope_delete>
+        <sys_update_name>sp_instance_dfcd25164a1c45adb4c5b597852b1414</sys_update_name>
+        <sys_update_version display_value="sp_instance_dfcd25164a1c45adb4c5b597852b1414">4aab1054934f0f90dc66fe818bba10db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-27 13:26:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
